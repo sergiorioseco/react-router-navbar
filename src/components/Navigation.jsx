@@ -15,7 +15,7 @@ return (
 </Nav>
 
 <Nav>
-<Navbar.Brand>Happy Cake 🍰</Navbar.Brand>
+<Navbar.Brand href="/">Happy Cake 🍰</Navbar.Brand>
 </Nav>
 </Container>
 </Navbar>
